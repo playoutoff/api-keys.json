@@ -1,8 +1,8 @@
 {
     "binance_01" : {
         "exchange": "binance",
-        "key": "HwiM0RwqEAnLrlGdvXcueHXlQKSQ7kEpagriuFVe4NYnJVtShCfZYNpsNOpn5vSs",
-        "secret": "fHMLPhvoiAwBJh1kMdgR5djgH9Ekeowx872rxToO2YSWfDaHoXe1DIiFp3lYvnHj",
+        "key": "cola",
+        "secret": "pola",
         "telegram": {
             "enabled": false,
             "notify_entry_fill": false,
